@@ -4,6 +4,7 @@ import urllib.request
 import datetime
 
 #List of cities. This is a list of Dictionary items
+#Added comment
 
 def import_cities():
     cities = []
