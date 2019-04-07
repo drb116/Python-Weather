@@ -1,3 +1,3 @@
 # Python-Weather
 
-This is the readme file.
+This is an example for a Comp Sci Principles create task.
